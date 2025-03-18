@@ -1,0 +1,15 @@
+.\output\bsp_w25qxx.o: ..\bsp\w25qxx\bsp_w25qxx.c
+.\output\bsp_w25qxx.o: ..\bsp\w25qxx\bsp_w25qxx.h
+.\output\bsp_w25qxx.o: ..\Libraries\CMSIS\stm32f10x.h
+.\output\bsp_w25qxx.o: ..\Libraries\CMSIS\core_cm3.h
+.\output\bsp_w25qxx.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\bsp_w25qxx.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\output\bsp_w25qxx.o: ..\User\stm32f10x_conf.h
+.\output\bsp_w25qxx.o: ..\Libraries\FWlib\inc\stm32f10x_dma.h
+.\output\bsp_w25qxx.o: ..\Libraries\CMSIS\stm32f10x.h
+.\output\bsp_w25qxx.o: ..\Libraries\FWlib\inc\stm32f10x_exti.h
+.\output\bsp_w25qxx.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\output\bsp_w25qxx.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\output\bsp_w25qxx.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\output\bsp_w25qxx.o: ..\Libraries\FWlib\inc\misc.h
+.\output\bsp_w25qxx.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
